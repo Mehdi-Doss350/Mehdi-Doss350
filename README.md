@@ -132,12 +132,9 @@ End-to-end loan approval prediction pipeline evaluating 5+ ML models before sele
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mehdi-Doss350&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-Doss350&layout=compact&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehdi-Doss350&theme=default" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/Mehdi-Doss350?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Mehdi-Doss350?label=Stars&style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Mehdi-Doss350&label=Public%20Repos&query=public_repos&style=for-the-badge&color=green" />
 </p>
 
 <hr>
