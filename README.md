@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mehdi Doss</h1>
 
-<h3 align="center">Computer Science Engineering Student | Artificial Intelligence & Machine Learning</h3>
+<h3 align="center">Computer Science Engineering Student | AI & Machine Learning | Full-Stack Software Engineering</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mehdi-doss">
@@ -18,7 +18,7 @@
 
 > "Turning data and models into systems that actually run in production."
 
-I'm a **Computer Science Engineering student at ENSI** (National School of Computer Science), Tunisia, specializing in **Artificial Intelligence and Computer Vision**. My work focuses on machine learning and applied AI — building models and intelligent assistants that solve concrete, real-world problems, from industrial data analysis to autonomous field inspection.
+I'm a **Computer Science Engineering student at ENSI** (National School of Computer Science), Tunisia, specializing in **Artificial Intelligence and Computer Vision**, with hands-on experience as a **full-stack software engineer**. My work spans building intelligent assistants and ML models as well as complete, production-oriented applications — from industrial data analysis to autonomous field inspection.
 
 **🛠️ Currently Working On:**
 - 🏭 **AI-Powered Real-Time Production Analytics** — industrial monitoring with an LLM-powered assistant (Tauri, Rust, WebSockets)
@@ -150,4 +150,4 @@ End-to-end loan approval prediction pipeline evaluating 5+ ML models before sele
   </a>
 </p>
 
-<p align="center"><i>Open to internship opportunities in Artificial Intelligence and Machine Learning.</i></p>
+<p align="center"><i>Open to internship opportunities in Artificial Intelligence, Machine Learning, and Full-Stack Software Engineering.</i></p>
