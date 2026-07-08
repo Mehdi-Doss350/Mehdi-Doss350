@@ -3,13 +3,13 @@
 <h3 align="center">Computer Science Engineering Student | AI & Backend Engineering | Robotics</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mehdi-doss-a79025317/?skipRedirect=true">
+  <a href="https://linkedin.com/in/mehdi-doss">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mehdi.doss@ensi-uma.tn">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mehdi-doss&style=for-the-badge&color=grey" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mehdi-Doss350&style=for-the-badge&color=grey" alt="Profile views" />
 </p>
 
 <hr>
@@ -132,25 +132,20 @@ End-to-end loan approval prediction pipeline evaluating 5+ ML models before sele
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=
-Mehdi-Doss350&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-Mehdi-Doss350&layout=compact&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mehdi-Doss350&show_icons=true&theme=default&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-Doss350&layout=compact&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=
-Mehdi-Doss350&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehdi-Doss350&theme=default" alt="GitHub Streak" />
 </p>
-
-> ℹ️ Replace `mehdi-doss` with your actual GitHub username so the stats render correctly.
 
 <hr>
 
 ## 📫 Contact
 
 <p align="center">
-  <a href="[https://linkedin.com/in/mehdi-doss](https://www.linkedin.com/in/mehdi-doss-a79025317/?skipRedirect=true)">
+  <a href="https://linkedin.com/in/mehdi-doss">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mehdi.doss@ensi-uma.tn">
