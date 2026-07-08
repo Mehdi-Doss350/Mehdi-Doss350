@@ -142,7 +142,7 @@ End-to-end loan approval prediction pipeline evaluating 5+ ML models before sele
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/mehdi-doss">
+  <a href="[https://linkedin.com/in/mehdi-doss](https://www.linkedin.com/in/mehdi-doss-a79025317/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mehdi.doss@ensi-uma.tn">
