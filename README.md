@@ -45,6 +45,7 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
 </p>
 
 **Artificial Intelligence / Machine Learning**
@@ -55,6 +56,7 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 <img src="https://img.shields.io/badge/Computer%20Vision-4B8BBE?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 **Robotics / Embedded Systems**
@@ -70,7 +72,6 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
