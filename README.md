@@ -21,6 +21,7 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 - 🏭 **AI-Powered Real-Time Production Analytics** — industrial monitoring with an LLM-powered assistant (Tauri, Rust, WebSockets)
 - 🌾 **CropEye** — autonomous agricultural drone for crop disease detection using computer vision
 - 📦 **AR Management** — full-stack inventory platform with a RAG-based assistant
+
 <hr>
 
 ## 💻 Technical Stack
@@ -31,7 +32,6 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
 </p>
 
 **Software Development**
@@ -44,7 +44,7 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 **Artificial Intelligence / Machine Learning**
@@ -53,8 +53,8 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer%20Vision-4B8BBE?style=for-the-badge" />
-langraph 
-langchain
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
 </p>
 
 **Robotics / Embedded Systems**
@@ -62,13 +62,13 @@ langchain
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-Ros
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
 **Tools & Platforms**
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-gitlab
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -106,17 +106,16 @@ End-to-end loan approval prediction pipeline evaluating 5+ ML models before sele
 
 - 🏭 **Software Engineering Intern — Hutchinson**, Sousse, Tunisia *(Jul. 2026 – Aug. 2026)*
 - 🤖 **Summer Intern, Artificial Intelligence — SWConsulting**, Monastir, Tunisia *(Jul. 2025 – Aug. 2025)*
-- 📣 **Media Manager, Code and Conquer 2.0 — ENSI Competitive Programming Club** *(Jan. 2025 – Jui 2025)*
+- 📣 **Media Manager, Code and Conquer 2.0 — ENSI Competitive Programming Club** *(Jan. 2025 – Jul. 2025)*
 - 🔧 **Expert Member & Trainer — Association Robotique ENSI (ARE)**
 - 🏆 **Competitive Programming** — solved 100+ problems on LeetCode and Codeforces
 
 <hr>
 
-
 ## 📫 Contact
 
 <p align="center">
-  <a href="[https://linkedin.com/in/mehdi-doss](https://www.linkedin.com/in/mehdi-doss-a79025317/)">
+  <a href="https://www.linkedin.com/in/mehdi-doss-a79025317/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mehdi.doss@ensi-uma.tn">
