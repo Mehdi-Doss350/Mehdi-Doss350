@@ -9,14 +9,11 @@
   <a href="mailto:mehdi.doss@ensi-uma.tn">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Mehdi-Doss350&style=for-the-badge&color=grey" alt="Profile views" />
 </p>
 
 <hr>
 
 ## 🎯 About Me
-
-> "Turning data and models into systems that actually run in production."
 
 I'm a **Computer Science Engineering student at ENSI** (National School of Computer Science), Tunisia, specializing in **Artificial Intelligence and Computer Vision**, with hands-on experience as a **full-stack software engineer**. My work spans building intelligent assistants and ML models as well as complete, production-oriented applications — from industrial data analysis to autonomous field inspection.
 
@@ -24,12 +21,6 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 - 🏭 **AI-Powered Real-Time Production Analytics** — industrial monitoring with an LLM-powered assistant (Tauri, Rust, WebSockets)
 - 🌾 **CropEye** — autonomous agricultural drone for crop disease detection using computer vision
 - 📦 **AR Management** — full-stack inventory platform with a RAG-based assistant
-
-**📚 Learning & Growing:**
-- Advanced real-time & concurrent systems design
-- Deeper computer vision and model deployment practices
-- Scalable backend architecture
-
 <hr>
 
 ## 💻 Technical Stack
@@ -121,7 +112,7 @@ End-to-end loan approval prediction pipeline evaluating 5+ ML models before sele
 ## 💼 Experience & Achievements
 
 - 🏭 **Software Engineering Intern — Hutchinson**, Sousse, Tunisia *(Jul. 2026 – Aug. 2026)*
-- 🤖 **Summer Intern, Artificial Intelligence — SWConsulting**, Monastir, Tunisia *(Aug. 2025)*
+- 🤖 **Summer Intern, Artificial Intelligence — SWConsulting**, Monastir, Tunisia *(Jul. 2025 – Aug. 2025)*
 - 📣 **Media Manager, Code and Conquer 2.0 — ENSI Competitive Programming Club** *(Jan. 2025 – May 2025)* — coordinated media strategy for a 100+ participant event
 - 🔧 **Expert Member & Trainer — Association Robotique ENSI (ARE)** — trained students in embedded systems and robotics during RoboDay workshops
 - 🔐 **Expert Member — OSSEC Club (ENSI)** — contributed to technical activities and workshops
@@ -129,15 +120,6 @@ End-to-end loan approval prediction pipeline evaluating 5+ ML models before sele
 
 <hr>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Mehdi-Doss350?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Mehdi-Doss350?label=Stars&style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Mehdi-Doss350&label=Public%20Repos&query=public_repos&style=for-the-badge&color=green" />
-</p>
-
-<hr>
 
 ## 📫 Contact
 
