@@ -28,34 +28,23 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 **Programming Languages**
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 </p>
 
-**Frontend Development**
+**Software Development**
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-**Backend Development**
-<p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
-</p>
-
-**Databases**
-<p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 **Artificial Intelligence / Machine Learning**
@@ -64,6 +53,8 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer%20Vision-4B8BBE?style=for-the-badge" />
+langraph 
+langchain
 </p>
 
 **Robotics / Embedded Systems**
@@ -71,11 +62,13 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+Ros
 </p>
 
 **Tools & Platforms**
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+gitlab
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -88,11 +81,11 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 ### 🏭 AI-Powered Real-Time Production Analytics
 *Software Engineering Intern @ Hutchinson*
 Cross-platform industrial monitoring system with real-time production metrics over WebSockets, plus an integrated LLM-powered assistant that analyzes live data, summarizes trends, detects anomalies, and answers natural-language queries.
-`Tauri (Rust)` `TypeScript` `Vite` `Hono` `Bun` `WebSockets`
+`Tauri (Rust)` `TypeScript` `Vite` `Hono` `Bun` `WebSockets` `Mosquitto`
 
 ### 🌾 CropEye — Autonomous Agricultural Drone
 Autonomous drone for real-time olive tree disease detection using computer vision, with a prompt-driven control interface enabling high-level mission planning and autonomous field inspection.
-`Computer Vision` `Autonomous Systems` `Prompt-Driven Control`
+`Computer Vision` `MCP` `YOLOv8n`
 
 ### 📦 AR Management — Full Stack Inventory Platform
 Full-stack inventory management platform serving 500+ members, with RESTful APIs and a Retrieval-Augmented Generation (RAG) assistant for intelligent, context-aware inventory queries.
@@ -105,7 +98,7 @@ AI-powered license plate recognition system using YOLO-based detection and EasyO
 ### 💰 Loan Application Prediction
 *Summer Intern, AI @ SWConsulting*
 End-to-end loan approval prediction pipeline evaluating 5+ ML models before selecting TabPFN, achieving 92% prediction accuracy, deployed with Streamlit for interactive real-time inference.
-`scikit-learn` `TabPFN` `Streamlit`
+`scikit-learn` `ML` `Streamlit`
 
 <hr>
 
@@ -113,9 +106,8 @@ End-to-end loan approval prediction pipeline evaluating 5+ ML models before sele
 
 - 🏭 **Software Engineering Intern — Hutchinson**, Sousse, Tunisia *(Jul. 2026 – Aug. 2026)*
 - 🤖 **Summer Intern, Artificial Intelligence — SWConsulting**, Monastir, Tunisia *(Jul. 2025 – Aug. 2025)*
-- 📣 **Media Manager, Code and Conquer 2.0 — ENSI Competitive Programming Club** *(Jan. 2025 – May 2025)* — coordinated media strategy for a 100+ participant event
-- 🔧 **Expert Member & Trainer — Association Robotique ENSI (ARE)** — trained students in embedded systems and robotics during RoboDay workshops
-- 🔐 **Expert Member — OSSEC Club (ENSI)** — contributed to technical activities and workshops
+- 📣 **Media Manager, Code and Conquer 2.0 — ENSI Competitive Programming Club** *(Jan. 2025 – Jui 2025)*
+- 🔧 **Expert Member & Trainer — Association Robotique ENSI (ARE)**
 - 🏆 **Competitive Programming** — solved 100+ problems on LeetCode and Codeforces
 
 <hr>
