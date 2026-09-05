@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Engineering Student | AI & Machine Learning | Full-Stack Software Engineering</h3>
 
 <p align="center">
-  <a href="https://mehdi-doss.vercel.app/">
+  <a href="https://mehdidoss.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mehdi-doss-a79025317/">
@@ -20,7 +20,7 @@
 
 I'm a Computer Science Engineering student at **ENSI** (National School of Computer Science), Tunisia, specializing in **Artificial Intelligence and Computer Vision**, with hands-on experience as a full-stack software engineer. My work spans intelligent assistants and machine learning models, as well as complete, production-oriented applications — from industrial data analysis to autonomous field inspection.
 
-You can find a curated overview of my work on my **[portfolio](https://mehdi-doss.vercel.app/)**.
+You can find a curated overview of my work on my **[portfolio](https://mehdidoss.vercel.app/)**.
 
 **🛠️ Currently Working On:**
 - 🏭 **AI-Powered Real-Time Production Analytics** — industrial monitoring platform with an LLM-powered assistant (Tauri, Rust, WebSockets)
@@ -123,7 +123,7 @@ End-to-end loan approval prediction pipeline evaluating 5+ machine learning mode
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://mehdi-doss.vercel.app/">
+  <a href="https://mehdidoss.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mehdi-doss-a79025317/">
