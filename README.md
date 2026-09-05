@@ -3,6 +3,9 @@
 <h3 align="center">Computer Science Engineering Student | AI & Machine Learning | Full-Stack Software Engineering</h3>
 
 <p align="center">
+  <a href="https://mehdi-doss.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mehdi-doss-a79025317/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -15,10 +18,12 @@
 
 ## 🎯 About Me
 
-I'm a **Computer Science Engineering student at ENSI** (National School of Computer Science), Tunisia, specializing in **Artificial Intelligence and Computer Vision**, with hands-on experience as a **full-stack software engineer**. My work spans building intelligent assistants and ML models as well as complete, production-oriented applications — from industrial data analysis to autonomous field inspection.
+I'm a Computer Science Engineering student at **ENSI** (National School of Computer Science), Tunisia, specializing in **Artificial Intelligence and Computer Vision**, with hands-on experience as a full-stack software engineer. My work spans intelligent assistants and machine learning models, as well as complete, production-oriented applications — from industrial data analysis to autonomous field inspection.
+
+You can find a curated overview of my work on my **[portfolio](https://mehdi-doss.vercel.app/)**.
 
 **🛠️ Currently Working On:**
-- 🏭 **AI-Powered Real-Time Production Analytics** — industrial monitoring with an LLM-powered assistant (Tauri, Rust, WebSockets)
+- 🏭 **AI-Powered Real-Time Production Analytics** — industrial monitoring platform with an LLM-powered assistant (Tauri, Rust, WebSockets)
 - 🌾 **CropEye** — autonomous agricultural drone for crop disease detection using computer vision
 - 📦 **AR Management** — full-stack inventory platform with a RAG-based assistant
 
@@ -79,26 +84,28 @@ I'm a **Computer Science Engineering student at ENSI** (National School of Compu
 
 ## 🚀 Featured Projects
 
+More detail and live demos for these projects are available on my **[portfolio](https://mehdi-doss.vercel.app/)**.
+
 ### 🏭 AI-Powered Real-Time Production Analytics
 *Software Engineering Intern @ Hutchinson*
-Cross-platform industrial monitoring system with real-time production metrics over WebSockets, plus an integrated LLM-powered assistant that analyzes live data, summarizes trends, detects anomalies, and answers natural-language queries.
+Cross-platform industrial monitoring system delivering real-time production metrics over WebSockets, integrated with an LLM-powered assistant that analyzes live data, summarizes trends, detects anomalies, and answers natural-language queries.
 `Tauri (Rust)` `TypeScript` `Vite` `Hono` `Bun` `WebSockets` `Mosquitto`
 
 ### 🌾 CropEye — Autonomous Agricultural Drone
-Autonomous drone for real-time olive tree disease detection using computer vision, with a prompt-driven control interface enabling high-level mission planning and autonomous field inspection.
+Autonomous drone for real-time olive tree disease detection using computer vision, featuring a prompt-driven control interface that enables high-level mission planning and autonomous field inspection.
 `Computer Vision` `MCP` `YOLOv8n`
 
-### 📦 AR Management — Full Stack Inventory Platform
-Full-stack inventory management platform serving 500+ members, with RESTful APIs and a Retrieval-Augmented Generation (RAG) assistant for intelligent, context-aware inventory queries.
+### 📦 AR Management — Full-Stack Inventory Platform
+Full-stack inventory management platform serving 500+ members, built with RESTful APIs and a Retrieval-Augmented Generation (RAG) assistant for intelligent, context-aware inventory queries.
 `Flutter` `Node.js` `MongoDB` `RAG`
 
 ### 🚗 PlateVision — License Plate Recognition System
-AI-powered license plate recognition system using YOLO-based detection and EasyOCR, achieving 97%+ recognition performance, with automatic validation and real-time vehicle tracking.
+AI-powered license plate recognition system combining YOLO-based detection with EasyOCR, achieving 97%+ recognition accuracy, with automatic validation and real-time vehicle tracking.
 `Computer Vision` `YOLO` `EasyOCR`
 
 ### 💰 Loan Application Prediction
-*Summer Intern, AI @ SWConsulting*
-End-to-end loan approval prediction pipeline evaluating 5+ ML models before selecting TabPFN, achieving 92% prediction accuracy, deployed with Streamlit for interactive real-time inference.
+*Summer Intern, Artificial Intelligence @ SWConsulting*
+End-to-end loan approval prediction pipeline evaluating 5+ machine learning models before selecting TabPFN, achieving 92% prediction accuracy, deployed with Streamlit for interactive real-time inference.
 `scikit-learn` `ML` `Streamlit`
 
 <hr>
@@ -109,13 +116,16 @@ End-to-end loan approval prediction pipeline evaluating 5+ ML models before sele
 - 🤖 **Summer Intern, Artificial Intelligence — SWConsulting**, Monastir, Tunisia *(Jul. 2025 – Aug. 2025)*
 - 📣 **Media Manager, Code and Conquer 2.0 — ENSI Competitive Programming Club** *(Jan. 2025 – Jul. 2025)*
 - 🔧 **Expert Member & Trainer — Association Robotique ENSI (ARE)**
-- 🏆 **Competitive Programming** — solved 100+ problems on LeetCode and Codeforces
+- 🏆 **Competitive Programming** — 100+ problems solved on LeetCode and Codeforces
 
 <hr>
 
 ## 📫 Contact
 
 <p align="center">
+  <a href="https://mehdi-doss.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mehdi-doss-a79025317/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
